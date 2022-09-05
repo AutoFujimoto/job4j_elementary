@@ -14,7 +14,7 @@ hs_err_pid*
 .idea
 *.iml
 
-target
+job4j_elementary-master/target
 
 out
 *.log
