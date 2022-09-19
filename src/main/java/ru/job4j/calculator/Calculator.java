@@ -6,10 +6,12 @@ public class Calculator {
         int result = first + second;
         System.out.println(result);
     }
+
     public static int func1(int x) {
-        int y = x ;
+        int y = x;
         return y;
     }
+
     public static void main(String[] args) {
         Calculator.plus(1, 2);
         Calculator.plus(10, 11);
